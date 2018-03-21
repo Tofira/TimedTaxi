@@ -1,0 +1,74 @@
+[  
+   {  
+      "id":1,
+      "name":"Castle",
+      "image":"http://kastel.co.il/wp-content/uploads/2013/07/logo1.jpg",
+      "eta": 1620000
+   },
+   {  
+      "id":2,
+      "name":"Shekem",
+      "image":"https://seeklogo.com/images/E/easy-taxi-logo-9DA2362E9B-seeklogo.com.png",
+      "eta": 720000
+   },
+   {  
+      "id":3,
+      "name":"C&H TAXI",
+      "image":"http://www.chtaxi.com/images/logo@2x.png",
+      "eta": 2820000
+   },
+   {  
+      "id":4,
+      "name":"PUBLIC SERVICE",
+      "image":"https://seeklogo.com/images/T/taxi-logo-56133DE096-seeklogo.com.png",
+      "eta": 420000
+   },
+   {  
+      "id":5,
+      "name":"M Taxi",
+      "image":"https://lh3.ggpht.com/pJUWs0_bQKaxXsJdZsK3q3iU7YhJo8tS5ySrCf9-e16GyUW6fsh8KX8DgN_EKIdyHw=h300",
+      "eta": 1260000
+   },
+   {  
+      "id":6,
+      "name":"iTaxi",
+      "image":"https://lh3.googleusercontent.com/nYdntsnb6RWPRyM6FPlEfjZijGgpha_s2iCl91Juk3qAwXsM0Eg4K-EDi1qChi75_Oo=w300",
+      "eta": 3240000
+   },
+   {  
+      "id":7,
+      "name":"HAIL",
+      "image":"https://cdn-images-1.medium.com/max/1600/0*XGG-RpyXeNzrgp6M.png",
+      "eta": 1080000
+   },
+   {  
+      "id":8,
+      "name":"City Taxi",
+      "image":"https://en.yellowpages.uz/Data/Companies/Images/32535/logo.jpg",
+      "eta": 2220000
+   },
+   {  
+      "id":9,
+      "name":"ACAB",
+      "image":"https://logopond.com/logos/2fa474b684f5db9e62e2d70626d4ac12.png",
+      "eta": 180000
+   },
+   {
+      "id":10,
+      "name":"EZ TAXI",
+      "image":"http://dcvipcab.com/wp-content/uploads/2014/09/eztaxiLogo2.png",
+      "eta": 1500000
+   },
+   {
+      "id":11,
+      "name":"New York Taxi",
+      "image":"http://www.paginasamarillasdepanama.com/uploads/images/logo8.jpg",
+      "eta": 2160000
+   },
+   {
+      "id":12,
+      "name":"Taxi2Go",
+      "image":"http://eyeteasemedia.com/media/wp-content/uploads/2012/12/cabwifi-logo-300x300.jpg",
+      "eta": 3300000
+   }
+]

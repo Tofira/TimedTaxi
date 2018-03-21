@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="card_item_padding">16dp</dimen>
+    <dimen name="splash_title_text_size">50sp</dimen>
+    <dimen name="splash_logo_text_size">30sp</dimen>
+    <dimen name="taxi_image_item_height">85dp</dimen>
+    <dimen name="taxi_item_title">18sp</dimen>
+    <dimen name="taxi_item_eta_text_size">18sp</dimen>
+</resources>

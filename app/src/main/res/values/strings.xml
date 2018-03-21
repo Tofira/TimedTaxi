@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TimedTaxi</string>
+    <string name="app_name_underline"><u>TimedTaxi</u></string>
+    <string name="logo_1">All Taxis. </string>
+    <string name="logo_2">Timed</string>
+    <string name="minute_suffix">m</string>
+    <string name="eta_error_message">No Taxi for you :(</string>
+</resources>
